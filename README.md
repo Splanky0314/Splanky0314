@@ -54,7 +54,7 @@ Welcome to My Profile:D
 ## **✒️ Info**
 <b>
 <p>Hanam Sinpyeong Elementary School(2011~2016)</p>
-<p>Middle School(2017~2019)</p>
+<p>Hanam Sinpyeong Middle School(2017~2019)</p>
 <p>Hamin High School 7th(2020~2022)</p>
 <p>Vice President of Hanmin CPS(2020~2022)</p>
 <p>President of Hanmin Covengers(2021~2022)</p>
