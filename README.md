@@ -59,10 +59,16 @@ Welcome to My Profile:D
 <p>Vice President of Hanmin CPS(2020~2022)</p>
 <p>President of Hanmin Covengers(2021~2022)</p>
 <p>Hanalum member(2020~)</p>
+<p>Sogang University Department of Computer Engineering (2023~)</p>
 </b>
 <br><br><br>
 
-![github stats](https://github-readme-stats.vercel.app/api?username=splanky0314&show_icons=true)
-[![github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Splanky0314&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/Splanky0314)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=splanky0314&show_icons=true&theme=radical)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=splanky0314&repo=splanky0314.github.io)](https://github.com/Splanky0314/splanky0314.github.io)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=splanky0314&repo=TIL)](https://github.com/Splanky0314/TIL)
 
 </div>
